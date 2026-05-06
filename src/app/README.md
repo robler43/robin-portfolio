@@ -12,7 +12,7 @@ A minimalist UX Designer portfolio website with web3 aesthetic.
 
 ## Sections
 
-- **Navigation**: Home, Work, Resume
+- **Navigation**: Home, About, Work
 - **Hero**: "athlete. designer. builder." with professional tagline
 - **Project Grid**: 3 featured case studies with tags
 - **Footer**: Copyright information

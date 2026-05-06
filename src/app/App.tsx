@@ -33,14 +33,6 @@ export default function App() {
         
         {activeSection === 'Work' && <ProjectGrid />}
         
-        {activeSection === 'Resume' && (
-          <div className="container mx-auto px-4 py-32 max-w-4xl">
-            <div className="text-center">
-              <p className="text-zinc-500">Resume coming soon...</p>
-            </div>
-          </div>
-        )}
-        
         <Footer />
       </div>
     </div>

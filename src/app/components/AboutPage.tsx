@@ -315,14 +315,6 @@ export function AboutPage({ onSectionChange }: AboutPageProps) {
               >
                 <span className="font-mono tracking-widest">VIEW MY WORK</span>
               </button>
-              <a 
-                href="https://rhoesli.xyz/pdf/cv.pdf"
-                target="_blank"
-                rel="noopener noreferrer"
-                className="px-8 py-4 bg-transparent hover:bg-[rgb(37,208,171)] text-[rgb(37,208,171)] hover:text-black transition-colors border-2 border-[rgb(37,208,171)] cursor-pointer inline-block text-center"
-              >
-                <span className="font-mono tracking-widest">DOWNLOAD RESUME</span>
-              </a>
             </div>
 
             <div className="pt-8 border-t border-zinc-800">

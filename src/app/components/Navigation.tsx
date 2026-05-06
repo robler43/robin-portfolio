@@ -12,8 +12,7 @@ export function Navigation({ activeSection, onSectionChange }: NavigationProps) 
   const navItems = [
     { name: 'Home', path: '/home', isExternal: false },
     { name: 'About', path: '/about', isExternal: false },
-    { name: 'Work', path: '/work', isExternal: false },
-    { name: 'Resume', path: './resume.exe', isExternal: true, url: 'https://rhoesli.xyz/pdf/cv.pdf' }
+    { name: 'Work', path: '/work', isExternal: false }
   ];
 
   return (

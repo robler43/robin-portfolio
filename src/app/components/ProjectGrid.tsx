@@ -46,7 +46,7 @@ const projects = [
     id: 2,
     code: 'PROJECT_02',
     title: 'PASSPORT.XYZ',
-    description: 'Architected a full-stack Web3 application designed to replace traditional resumes with verifiable on-chain history.',
+    description: 'Architected a full-stack Web3 application for verifiable on-chain professional history.',
     attributes: [
       { name: 'Full Stack Architecture', icon: Cpu, stat: 'INT +22' },
       { name: 'Smart Contracts (Rust)', icon: Shield, stat: 'STR +20' },
